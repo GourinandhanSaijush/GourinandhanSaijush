@@ -2,7 +2,7 @@
 - 👀 I’m interested in Coding And Creating things
 - 🌱 I’m currently learning different Programming languages
 - 💞️ I’m looking to collaborate on Small projects
-- 📫 How to reach me 
+- 📫 How to reach me - Just text
 
  Just trying to make the world a better place
 
