@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GourinandhanSaijush
+- 👋 Hi, I’m Gourinandhan Saijush, A robotics and AI engineer
 - 👀 I’m interested in Coding And Creating things
 - 🌱 I’m currently learning different Programming languages
 - 💞️ I’m looking to collaborate on Small projects
